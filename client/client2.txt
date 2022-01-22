@@ -1,5 +1,5 @@
 This is a sample text file.
-hello Good Morning!!!
+Hello Good Morning!!!
 
 This is a sample text file.
-hello Good Afternoon!!!
+Hello Good Afternoon!!!
